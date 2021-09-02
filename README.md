@@ -1,6 +1,6 @@
 # fluttersehirler
 
-A new Flutter project.
+A new Flutter project that FLutter app communicate with dotnet core REST api
 
 ## Getting Started
 
